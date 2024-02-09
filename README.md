@@ -1,13 +1,9 @@
+### **Hi there! I'm Cecilia** 👋 :woman_technologist:
 
-- 👋 Hi there! I am Cecilia Ugartemendía, a passionate Full Stack Developer Junior motivated by problem-solving and
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:computer: A passionate Full Stack Developer Junior motivated by problem-solving and continuous growth.
 
-<!---
-Ceciliaugarte/Ceciliaugarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![portada-github](https://github.com/Ceciliaugarte/Ceciliaugarte/assets/145774575/5d1c156b-9179-4fbb-9441-ceae9ceba728)
+
+> - 🌱 I'm currently exploring other technologies such as Typescript and Next.js.
+> - 💞️ I'm enthusiastic about collaborating on challenging projects aimed at making a positive impact on others.
+
