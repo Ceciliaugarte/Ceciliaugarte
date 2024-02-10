@@ -1,4 +1,4 @@
-## **Hi there! I'm Cecilia** 👋 :woman_technologist:
+## **Hi! I'm Cecilia** 👋 :woman_technologist:
 
 
 :computer: A passionate Full Stack Developer Junior motivated by problem-solving and continuous growth.
