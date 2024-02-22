@@ -8,3 +8,4 @@
 > - 🌱 I'm currently exploring other technologies such as Typescript and Next.js.
 > - 💞️ I'm enthusiastic about collaborating on challenging projects aimed at making a positive impact on others.
 
+
