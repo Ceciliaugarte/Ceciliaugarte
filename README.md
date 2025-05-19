@@ -1,3 +1,6 @@
+![Banner](./GithubBanner.png)
+
+
 ## **Hi! I'm Cecilia** 👋 :woman_technologist:
 
 :computer: A passionate Full Stack Developer Junior with experience building modern web applications, passionate about continuous learning and solving complex problems with efficient solutions.
