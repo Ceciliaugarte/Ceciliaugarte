@@ -19,7 +19,7 @@ const developer = {
     "Vue.js", "Node.js", "Express", "NestJS", "MySQL", "MongoDB", "Sequelize", "Mongoose",
     "Prisma", "Sequelize", "Tailwind CSS", "JWT"
   ],
-  currentlyLearning: ["C", "C++"],
+  currentlyLearning: ["C", "C++", "Phyton"],
   contact: "cecilia.ugartemendia18@gmail.com"
 };
 console.log(developer);
