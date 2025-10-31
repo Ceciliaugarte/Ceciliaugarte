@@ -73,9 +73,8 @@ A modern web application to manage property reservations, currently being develo
 **Technologies:** Next.js, React, Node.js, Express, MySQL, JWT, Sequelize.
 
 
-
-📫 Let’s Connect! 
+## Let’s Connect! 
 
 📧 cecilia.ugartemendia18@gmail.com
 
-🌐 LinkedIn
+🌐 LinkedIn: https://www.linkedin.com/in/cecilia-ugartemendia/
