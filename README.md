@@ -3,23 +3,26 @@
 
 ## **Hi! I'm Cecilia** 👋 :woman_technologist:
 
-:computer: A passionate Full Stack Developer Junior with experience building modern web applications, passionate about continuous learning and solving complex problems with efficient solutions.
+:computer: I’m a Full Stack Developer passionate about building modern, scalable web applications and learning new technologies.
+My work focuses on developing efficient solutions through clean architectures, well-structured databases, and secure APIs.
 
 ### 🚀 About Me
-- Studying **IT Technologist** at UTU (Uruguay).
-- I enjoy teamwork, tackling technical challenges, and staying up-to-date with new technologies.
+- Currently studying Information Technology at UTU (Uruguay).
+- Hands-on experience developing full-stack apps using React, Node.js, NestJS, and MySQL.
+- Interested in software engineering, data management, and how AI-driven automation can improve real-world processes.
+- I enjoy teamwork, continuous learning, and tackling challenging problems.
 
 ### 🛠 Tech Stack
 ```ts
 const developer = {
   fullName: "Cecilia Ugartemendia",
   role: "Full Stack Developer",
-  technologies: [
-    "HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js",
-    "Vue.js", "Node.js", "Express", "NestJS", "MySQL", "MongoDB", "Sequelize", "Mongoose",
-    "Prisma", "Sequelize", "Tailwind CSS", "JWT"
-  ],
-  currentlyLearning: ["C", "C++", "Phyton"],
+  languages: ["JavaScript", "TypeScript", "Python", "SQL", "C/C++"],
+  frontend: ["HTML", "CSS", "React", "Next.js", "Vue.js", "Tailwind CSS, Bootstrap"],
+  backend: ["Node.js", "Express", "NestJS"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  tools: ["Prisma", "Sequelize", "Mongoose", "JWT", "Git", "GitHub"],
+  currentlyLearning: ["AI fundamentals", "process automation", "advanced backend design"],
   contact: "cecilia.ugartemendia18@gmail.com"
 };
 console.log(developer);
@@ -42,6 +45,23 @@ A fully functional e-commerce platform built during my Full Stack Bootcamp as a 
 
 ---
 
+#### 🔹 E-commerce Management Platform (In Development)
+A scalable platform for managing users, products, and orders with secure REST APIs and modular architecture.
+
+**Main features:**
+- Authentication & Authorization: JWT-based authentication with role-based access control (admin, user).
+- Modular Architecture: Separation of concerns between services, controllers, and database layers in NestJS.
+- Product Management: Admin panel for creating, editing, and deleting products, including categories and inventory tracking.
+- User Management: CRUD operations for user profiles, registration, and login system with validation.
+- Order System: Secure order placement, checkout, and order history for users.
+- Database Integration: MySQL managed with Prisma ORM, ensuring consistency and efficient queries.
+- API Design: RESTful endpoints following best practices and reusable DTOs.
+- Frontend: React and Tailwind CSS for a clean, responsive, and user-friendly interface.
+
+**Technologies:** Node.js, NestJS, MySQL, Prisma, React, Tailwind CSS
+
+---
+
 #### 🔹 Booking Platform (In development)
 A modern web application to manage property reservations, currently being developed to improve my skills in Next.js and backend integration.
 
@@ -53,3 +73,9 @@ A modern web application to manage property reservations, currently being develo
 **Technologies:** Next.js, React, Node.js, Express, MySQL, JWT, Sequelize.
 
 
+
+📫 Let’s Connect! 
+
+📧 cecilia.ugartemendia18@gmail.com
+
+🌐 LinkedIn
