@@ -31,6 +31,20 @@ console.log(developer);
 
 ### 💼 Featured Projects
 
+#### 🔹 Travel Tips App (https://traveltips-app.vercel.app/posts)
+
+A Next.js application that displays and filters posts from an external API, with enhanced UX for slow or unstable network conditions.
+
+- 🔍 Filter posts by userId with debounced input
+- ⚡ Data fetching with SWR (caching & revalidation)
+- 🐢 Slow connection detection with user feedback
+- 📦 Modular architecture using custom hooks
+- 🎨 Styled with Tailwind CSS
+- 
+🔗 Repository: https://github.com/Ceciliaugarte/traveltips-nextjs.git
+
+**Technologies:** React, Next.js, Tailwind CSS, SWR.
+
 #### 🔹 [Devils-Cellar – E-commerce App](https://devils-cellar.vercel.app/)
 A fully functional e-commerce platform built during my Full Stack Bootcamp as a final project.
 
